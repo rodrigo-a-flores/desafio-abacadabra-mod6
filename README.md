@@ -1,2 +1,2 @@
 # Link:
-https://desafio-abacadabra.onrender.com/abracadabra/usuario/Juan
+https://desafio-abacadabra.onrender.com/abracadabra/juego/Juan
